@@ -1,0 +1,1 @@
+A simple people registration application, made with react-native, at Expo.
